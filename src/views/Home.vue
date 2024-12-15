@@ -64,15 +64,15 @@
           well as building
           <a
             class="font-medium text-white"
-            href="https://hume.works/"
+            href="https://www.linkedin.com/company/lacunae-co/posts/?feedView=all"
             target="_blank"
-            >HUME.works</a
+            >Lacunae.co</a
           >, a natural language processing-powered startup focused on empowering
           co-creative relationships within and across teams.
         </p>
         <p class="mb-4">
-          When I'm not coding, I love spending time with my girlfriend and our 2
-          cats, playing DOTA2, or tinkering with my racing simulator.
+          When I'm not coding, I love spending time with my partner and our
+          cats, tinkering with my racing simulator, and skateboarding.
         </p>
       </div>
     </section>
